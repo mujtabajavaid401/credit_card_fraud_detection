@@ -1,1 +1,1 @@
-# credit_card_fraud_detection
+# churn_prediction
